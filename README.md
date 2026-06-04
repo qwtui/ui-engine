@@ -54,12 +54,17 @@
 
 ## 🖼️ 效果展示
 
-<!-- 等你有截图了放这里，建议放 2-3 张 -->
-<!--
-![游戏背包界面](screenshots/backpack.png)
-![技能面板](screenshots/skills.png)
-![设置界面](screenshots/settings.png)
--->
+<p align="center">
+  <img src="screenshot-1.png" width="600" alt="UI Engine 编辑器界面" style="border-radius:4px;border:1px solid rgba(255,255,255,0.1)">
+  <br>
+  <sub>编辑器主界面 — 左侧 AI 生成区、中央画布、右侧图层/属性面板</sub>
+</p>
+
+<p align="center">
+  <img src="screenshot-2.png" width="600" alt="UI Engine 编辑界面" style="border-radius:4px;border:1px solid rgba(255,255,255,0.1)">
+  <br>
+  <sub>AI 生成的 UI 组件在画布中拼装</sub>
+</p>
 
 ---
 
