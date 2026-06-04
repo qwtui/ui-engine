@@ -1,6 +1,6 @@
-# UI Engine
-
-> AI 驱动的 UI 组件编辑器 — 输入文字，AI 生成 SVG 组件，拖拽拼装成完整界面
+<p align="center">
+  <img src="banner.svg" width="600" alt="UI Engine">
+</p>
 
 <p align="center">
   <a href="https://uimagicai.com">
@@ -9,14 +9,19 @@
   <img src="https://img.shields.io/badge/状态-运行中-success?style=flat-square" alt="状态">
   <img src="https://img.shields.io/badge/价格-完全免费-brightgreen?style=flat-square" alt="免费">
   <img src="https://img.shields.io/badge/API-开放-orange?style=flat-square" alt="API">
+  <a href="https://github.com/qwtui/ui-engine/discussions">
+    <img src="https://img.shields.io/badge/社区-Discussions-blue?style=flat-square" alt="讨论">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://uimagicai.com">👉 立即在线使用</a>
+  <b><a href="https://uimagicai.com">👉 立即在线使用</a></b>
   ·
-  <a href="#-api-文档">API 文档</a>
+  <b><a href="#-api-文档">API 文档</a></b>
   ·
-  <a href="#-社区">加入 QQ 群</a>
+  <b><a href="#-社区">QQ 群</a></b>
+  ·
+  <b><a href="https://github.com/qwtui/ui-engine/discussions">Discussions</a></b>
 </p>
 
 ---
